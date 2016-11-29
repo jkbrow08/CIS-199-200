@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Project 1\Project 1\bin\Release\Project 1.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Project 1\Project 1\bin\Release\Project 1.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Project 1\Project 1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Project 1\Project 1\obj\x86\Release\Project 1.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Project 1\Project 1\obj\x86\Release\Project 1.pdb
