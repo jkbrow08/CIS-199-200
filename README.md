@@ -1,1 +1,1 @@
-# CIS-200 Program 1
+#Program 1 - CIS200
